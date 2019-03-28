@@ -1,1 +1,1 @@
-# AnomalySynthesis
+# VideoAnomalySynthesis
